@@ -1,0 +1,8 @@
+﻿  Gargoyle.cpp
+C:\Users\Atents\Documents\새 폴더\새 폴더\20240603-CPP\20240603-0900-Operator\Gargoyle.cpp(25,15): error C2084: 'int Gargoyle::GetPoisonRegist(void)' 함수에 이미 본문이 있습니다.
+  C:\Users\Atents\Documents\새 폴더\새 폴더\20240603-CPP\20240603-0900-Operator\Gargoyle.cpp(9,15):
+  'GetPoisonRegist'의 이전 정의를 참조하십시오.
+  
+  main.cpp
+  Slime.cpp
+  코드를 생성하고 있습니다...
